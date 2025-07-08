@@ -655,3 +655,24 @@ int main() {
 | **Penggunaan**         | Ketika ukuran data sudah pasti.               | Ketika ukuran data bisa berubah-ubah.             |
 
 ---
+
+---
+
+Paham banget! Kamu mau Task yang langsung to-the-point, fokus ke inti masalahnya, tanpa terlalu banyak panduan langkah demi langkah atau instruksi spesifik variabel. Kamu mau tantangan nyata untuk menerapkan pemahamanmu.
+
+Oke, kalau begitu, ini dia **Task Bab 5** untukmu. Ini akan menguji pemahamanmu tentang `std::vector` dan juga mengasah kemampuanmu untuk merancang variabel dan struktur logikanya sendiri.
+
+---
+
+### Task 5:
+
+Bayangkan kamu sedang membuat aplikasi daftar belanja sederhana. Kamu tidak tahu pasti berapa banyak barang yang akan orang masukkan, dan mereka mungkin ingin menambahkan atau menghapus barang kapan saja.
+
+1.  Buat program C++ yang menggunakan **`std::vector`** untuk menyimpan daftar nama-nama barang belanjaan (gunakan tipe data `std::string`).
+2.  Saat program dimulai, **inisialisasikan `std::vector` tersebut dalam keadaan kosong**.
+3.  Implementasikan fitur untuk **menambahkan 3 nama barang belanjaan** secara berurutan ke dalam daftar. Bebas mau nama barang apa saja.
+4.  Implementasikan fitur untuk **menghapus barang kedua** dari daftar.
+5.  Setelah penambahan dan penghapusan, **tampilkan semua barang yang tersisa** di daftar belanjaan ke layar. Pastikan setiap barang ditampilkan di baris baru.
+6.  Terakhir, tampilkan juga **jumlah total barang** yang ada di daftar setelah semua operasi.
+
+---
