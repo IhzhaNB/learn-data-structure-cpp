@@ -3,7 +3,7 @@
 ## Table Content
 
 - [Bab 1: Algoritma](#bab-1-algoritma)
-- [Bab 5 `std::vector`](#bab-5-std::vector)
+- [Bab 5 vector](#bab-5)
 
 ## Bab 1: Algoritma
 
@@ -47,7 +47,9 @@ Coba pikirkan, gimana algoritma untuk membuat kopi susu instan? Tulis langkah-la
 
 ---
 
-## Bab 5: `std::vector`
+## Bab 5
+
+`std::vector`
 
 ### 5.1. Apa Itu `std::vector`?
 
